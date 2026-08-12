@@ -691,16 +691,16 @@
       {
         "filename": "Main.kicad_sch",
         "name": "Main",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
-    "used_designators": "",
+    "used_designators": "F1-2,C1-9,R1-9,J5-50,D1-3",
     "variants": []
   },
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      "Main"
     ]
   ],
   "text_variables": {},
