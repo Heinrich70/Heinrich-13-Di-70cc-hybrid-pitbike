@@ -521,7 +521,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Main.kicad_pro",
+    "filename": "PPTC PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -689,12 +689,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Main.kicad_sch",
-        "name": "Main",
+        "filename": "PPTC PCB.kicad_sch",
+        "name": "PPTC PCB",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "",
+    "used_designators": "F1,J1-4",
     "variants": []
   },
   "sheets": [
